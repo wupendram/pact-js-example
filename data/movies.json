@@ -3,5 +3,18 @@
   { "id": 2, "name": "The Dark Knight", "year": 2008 },
   { "id": 3, "name": "Amelie", "year": 2001 },
   { "id": 4, "name": "Fight Club", "year": 1994 },
-  { "id": 5, "name": "The Lion King", "year": 1994 }
+  { "id": 5, "name": "The Lion King", "year": 1994 },
+  { "id": 6, "name": "The Matrix", "year": 1999 },
+  { "id": 7, "name": "The Godfather", "year": 1972 },
+  {
+    "id": 8,
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001
+  },
+  { "id": 9, "name": "The Lord of the Rings: The Two Towers", "year": 2002 },
+  {
+    "id": 10,
+    "name": "The Lord of the Rings: The Return of the King",
+    "year": 2003
+  }
 ]
